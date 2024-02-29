@@ -1,9 +1,7 @@
   
-  
 
 <h1>“It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.”
 </h1>  
-  
 
 # <div align="center">I'm Anand kp </div>  
   
@@ -108,5 +106,5 @@ https://anandkp2.netlify.app/
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
