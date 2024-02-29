@@ -1,7 +1,8 @@
   
   
 
-<img src="https://www.epicquotes.com/wp-content/uploads/2020/04/project_20200406_1331211.png" align="left" height="50%" width="100%" />  
+<h1>“It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.”
+</h1>  
   
 
 # <div align="center">I'm Anand kp </div>  
