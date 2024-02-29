@@ -8,20 +8,16 @@
   
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/723ae6247254d28c35f61d7fdffe7d3f64be91101be6cc1e8d2b71c6a09ccfe4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3830302f312a6d7237575877387467704d687175674b5032576872412e676966" align="center" height="" width="" />
-</div>  
+
+**<div align="center">
+Electrical And Electronics Engineer</div>**  
+
+**<div align="center">
+I’m currently working on WEB</div>**  
   
 
 **<div align="center">
-I’m currently working on WEB,Robotics</div>**  
-  
-
-**<div align="center">
-I’m currently learning MERN,PERN Stack</div>**  
-  
-
-**<div align="center">
-I’m looking to collaborate on Opensource</div>**  
+Love  to collaborate on Opensource</div>**  
   
 
 <br/>  
@@ -67,8 +63,7 @@ I’m looking to collaborate on Opensource</div>**
 
 ### Intrested  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
