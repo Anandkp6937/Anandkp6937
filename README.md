@@ -1,6 +1,6 @@
   
 
-<h1>THINK DIFFRENT
+<h1>If, at first, you do not succeed, call it version 1.0 ― Khayri R.R. Woulfe
 </h1>  
 
 # <div align="center">I'm Anand kp </div>  
