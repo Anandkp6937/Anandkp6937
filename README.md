@@ -1,6 +1,6 @@
   
 
-<h1>“It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.”
+<h1>THINK DIFFRENT
 </h1>  
 
 # <div align="center">I'm Anand kp </div>  
