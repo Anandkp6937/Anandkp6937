@@ -9,12 +9,17 @@
 <div align="center">
 
 **<div align="center">
+Computer lover</div>**  
+
+
+**<div align="center">
 Electrical And Electronics Engineer</div>**  
     
 
 **<div align="center">
 Love  to collaborate on Opensource</div>**  
-  
+
+
 
 <br/>  
 
