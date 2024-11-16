@@ -10,10 +10,7 @@
 
 **<div align="center">
 Electrical And Electronics Engineer</div>**  
-
-**<div align="center">
-I’m currently working on WEB</div>**  
-  
+    
 
 **<div align="center">
 Love  to collaborate on Opensource</div>**  
