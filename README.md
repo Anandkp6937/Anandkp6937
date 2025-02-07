@@ -88,7 +88,7 @@ Love  to collaborate on Opensource</div>**
 
 
 ## Connect with me  
-https://www.anandkp.in  
+www.anandkp.in  
   
 
 <br/>  
