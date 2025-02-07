@@ -88,7 +88,7 @@ Love  to collaborate on Opensource</div>**
 
 
 ## Connect with me  
-https://anandkp2.netlify.app/  
+https://www.anandkp.in  
   
 
 <br/>  
